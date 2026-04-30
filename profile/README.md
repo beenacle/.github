@@ -1,10 +1,11 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/beenacle-logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/beenacle-logo-light.svg">
-  <img src="assets/beenacle-logo-light.svg" alt="Beenacle" width="200">
-</picture>
-
-<br><br>
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/beenacle-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/beenacle-logo-light.svg">
+    <img src="assets/beenacle-logo-light.svg" alt="Beenacle" width="200">
+  </picture>
+  <p></p>
+</div>
 
 **Custom WordPress and WooCommerce development for businesses that take their website seriously.**
 
