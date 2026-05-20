@@ -1,12 +1,3 @@
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/beenacle-logo-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/beenacle-logo-dark.svg">
-    <img src="assets/beenacle-logo-dark.svg" alt="Beenacle" width="200">
-  </picture>
-  <p></p>
-</div>
-
 **Custom WordPress and WooCommerce development for businesses that take their website seriously.**
 
 We build custom WordPress sites, WooCommerce stores, and the PHP infrastructure behind them. Our clients range from regulated ecommerce operators to real estate platforms, B2B event businesses, and small and local service providers.
