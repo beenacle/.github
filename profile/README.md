@@ -1,8 +1,8 @@
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/beenacle-logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/beenacle-logo-light.svg">
-    <img src="assets/beenacle-logo-light.svg" alt="Beenacle" width="200">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/beenacle-logo-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/beenacle-logo-dark.svg">
+    <img src="assets/beenacle-logo-dark.svg" alt="Beenacle" width="200">
   </picture>
   <p></p>
 </div>
